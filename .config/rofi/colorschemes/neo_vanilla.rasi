@@ -1,0 +1,25 @@
+* {
+    
+    xbg:    #e5dace66;
+    xfg:    #321509;
+    x0:     #d9cece;
+    x1:     #c46a6b;
+    x2:     #a1ab57;
+    x3:     #c58e5e;
+    x4:     #8e715c;
+    x5:     #aa2830;
+    x6:     #a0734f;
+    x7:     #62301b;
+
+    x8:     #f2e7dc;
+    x9:     #d67676;
+    x10:    #b9c462;
+    x11:    #dea66f;
+    x12:    #a88765;
+    x13:    #c44b4b;
+    x14:    #bf8b60;
+    x15:    #803b1d;
+
+    select-color:	@x1;
+    prompt-color:	@x2;
+}

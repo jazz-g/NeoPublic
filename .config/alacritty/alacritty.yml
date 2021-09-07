@@ -1,0 +1,64 @@
+font:
+  size: 10
+  normal:
+    family: 'Iosevka Custom'
+    style: Regular
+
+background_opacity: 0.5
+
+schemes:
+  neo_chocolate: &neo_chocolate
+    # Default colors
+    primary:
+      background: '0x321509'
+      foreground: '0xe5dace'
+
+    # Normal colors
+    normal:
+      black:   '0x62301b'
+      red:     '0xc44343'
+      green:   '0xa1ab57'
+      yellow:  '0xc47e37'
+      blue:    '0x5c758e'
+      magenta: '0x8467ab'
+      cyan:    '0x4c8c8c'
+      white:   '0xd9cece'
+
+    # Bright colors
+    bright:
+      black:   '0x803b1d'
+      red:     '0xd66b6b'
+      green:   '0xb9c462'
+      yellow:  '0xdec06f'
+      blue:    '0x6794ab'
+      magenta: '0xb498d9'
+      cyan:    '0x74c2c2'
+      white:   '0xf2e7dc'
+
+  neo_vanilla: &neo_vanilla
+    #Default colors
+    primary:
+      background: '0xe5dace'
+      foreground: '0x321509'
+    # Normal colors
+    normal:
+      black:   '0xd9cece'
+      red:     '0xc44343'
+      green:   '0x5c663d'
+      yellow:  '0xc47e37'
+      blue:    '0x5c758e'
+      magenta: '0x5c4573'
+      cyan:    '0x3d6666'
+      white:   '0x62301b'
+    # Bright colors
+    bright:
+      black:   '0xf2e7dc'
+      red:     '0xcc6666'
+      green:   '0x878749'
+      yellow:  '0xbf7636'
+      blue:    '0x6f90a6'
+      magenta: '0x997a99'
+      cyan:    '0x588080'
+      white:   '0x803b1d' 
+
+colors: *neo_vanilla

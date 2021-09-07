@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg13397"
+   width="133.33333"
+   height="133.33333"
+   viewBox="0 0 133.33333 133.33333"
+   sodipodi:docname="weather-snow.png.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13401" />
+  <sodipodi:namedview
+     id="namedview13399"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.2437501"
+     inkscape:cx="84.007705"
+     inkscape:cy="48.246627"
+     inkscape:window-width="1860"
+     inkscape:window-height="1000"
+     inkscape:window-x="30"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g13403" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g13403">
+    <path
+       style="fill:#e5dace;stroke-width:1.33333;fill-opacity:1"
+       d="M 53.40476,116.36299 C 50.030916,115.17181 44.812328,111.60598 41.294358,108.08801 27.801107,94.594756 27.28549,75.427563 40.02638,60.953148 l 5.159444,-5.861439 -3.259578,-6.438493 C 38.145963,41.186206 37.852959,36.528491 40.730303,29.642038 43.483202,23.053422 47.545364,18.832397 53.999999,15.85339 75.252695,6.0446374 97.291127,28.507666 86.728391,49.212337 l -2.604938,5.106103 5.756147,6.00745 c 13.48952,14.078445 13.28839,33.966429 -0.482777,47.7376 -9.914405,9.9144 -22.922298,12.91393 -35.992063,8.2995 z M 67.43145,39.962695 c 4.842542,-1.841132 3.263192,-3.010315 -4.066372,-3.010315 -6.230055,0 -8.056954,1.556551 -3.797079,3.23518 3.383813,1.333412 3.795861,1.32163 7.863451,-0.224865 z M 54.461092,31.202357 c 1.060744,-2.668204 0.859326,-6.881067 -2.109872,-6.863062 -2.041191,0.01238 -2.964802,3.228465 -1.871177,6.674175 0.9773,3.079199 2.933002,2.825154 3.981049,0.188887 z m 23.127932,-1.115583 c 0.591153,-3.470158 -0.318681,-5.853033 -2.496875,-5.926223 -2.190329,-0.0736 -2.794426,3.665403 -1.7008,7.111113 0.977299,3.079199 3.66876,1.919923 4.197675,-1.18489 z"
+       id="path13407"
+       sodipodi:nodetypes="ssscsssscsssssssssssssss" />
+  </g>
+</svg>

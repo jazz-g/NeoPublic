@@ -1,0 +1,154 @@
+{
+	"name": "Default color scheme",
+	"groups": {
+		"information:unimportant":  { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] },
+		"information:additional":   { "fg": "neo:vanilla", "bg": "neo:caramel", "attrs": [] },
+		"background":               { "fg": "neo:vanilla", "bg": "neo:chocolate", "attrs": [] },
+		"background:divider":       { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] },
+		"mode":                     { "fg": "neo:chocolate", "bg": "neo:mint", "attrs": ["bold"] },
+		"visual_range":             { "fg": "neo:wafflecone", "bg": "darkorange", "attrs": ["bold"] },
+		"modified_indicator":       { "fg": "brightyellow", "bg": "neo:coffee", "attrs": ["bold"] },
+		"paste_indicator":          { "fg": "neo:vanilla", "bg": "mediumorange", "attrs": ["bold"] },
+		"readonly_indicator":       { "fg": "brightestred", "bg": "neo:coffee", "attrs": [] },
+		"branch_dirty":             { "fg": "brightyellow", "bg": "neo:coffee", "attrs": [] },
+		"branch:divider":           { "fg": "gray7", "bg": "neo:coffee", "attrs": [] },
+		"file_name":                { "fg": "neo:vanilla", "bg": "neo:coffee", "attrs": ["bold"] },
+		"window_title":             { "fg": "neo:vanilla", "bg": "neo:coffee", "attrs": [] },
+		"file_name_no_file":        { "fg": "gray9", "bg": "gray4", "attrs": ["bold"] },
+		"file_vcs_status":          { "fg": "brightestred", "bg": "gray4", "attrs": [] },
+		"file_vcs_status_M":        { "fg": "brightyellow", "bg": "gray4", "attrs": [] },
+		"file_vcs_status_A":        { "fg": "neo:mint", "bg": "gray4", "attrs": [] },
+		"line_percent":             { "fg": "gray9", "bg": "gray4", "attrs": [] },
+		"line_percent_gradient":    { "fg": "neo:milkchocolate", "bg": "neo:mint", "attrs": [] },
+		"position":                 { "fg": "gray9", "bg": "gray4", "attrs": [] },
+		"position_gradient":        { "fg": "green_yellow_red", "bg": "gray4", "attrs": [] },
+		"line_current":             { "fg": "neo:milkchocolate", "bg": "neo:vanilla", "attrs": ["bold"] },
+		"line_current_symbol":      { "fg": "neo:milkchocolate", "bg": "neo:vanilla", "attrs": [] },
+		"virtcol_current_gradient": { "fg": "dark_GREEN_Orange_red", "bg": "neo:vanilla", "attrs": [] },
+		"col_current":              { "fg": "gray6", "bg": "neo:vanilla", "attrs": [] },
+		"modified_buffers":         { "fg": "brightyellow", "bg": "gray2", "attrs": [] },
+		"attached_clients":         { "fg": "gray8", "bg": "gray2", "attrs": [] },
+		"error":                    { "fg": "brightestred", "bg": "darkred", "attrs": ["bold"] },
+		"warning":                  { "fg": "brightyellow", "bg": "darkorange", "attrs": ["bold"] },
+		"current_tag":              { "fg": "gray9", "bg": "gray2", "attrs": [] },
+
+		"tab_nc:modified_indicator": { "fg": "brightyellow", "bg": "gray2", "attrs": ["bold"] }
+	},
+	"mode_translations": {
+		"nc": {
+			"colors": {
+				"brightyellow": "darkorange",
+				"brightestred": "neo:cherry",
+				"gray0": "neo:chocolate",
+				"gray1": "neo:chocolate",
+				"gray2": "neo:chocolate",
+				"gray3": "neo:milkchocolate",
+				"gray4": "neo:milkchocolate",
+				"gray5": "neo:milkchocolate",
+				"gray6": "neo:milkchocolate",
+				"gray7": "neo:coffee",
+				"gray8": "neo:coffee",
+				"gray9": "neo:coffee",
+				"gray10": "neo:coffee",
+				"neo:vanilla": "neo:caramel",
+				"dark_green_gray": "neo:wafflecone"
+			}
+		},
+		"i": {
+			"colors": {
+				"gray0": "neo:strawberry",
+				"gray1": "neo:strawberry",
+				"gray2": "neo:strawberry",
+				"gray3": "neo:milkchocolate",
+				"gray4": "neo:milkchocolate",
+				"gray5": "neo:strawberry",
+				"gray6": "neo:strawberry",
+				"gray7": "neo:strawberry",
+				"gray8": "neo:mint",
+				"gray9": "neo:mint",
+				"gray10": "neo:mint",
+				"green_yellow_red": "gray5",
+				"dark_green_gray": "light_green_gray"
+			},
+			"groups": {
+				"mode":               { "fg": "neo:milkchocolate", "bg": "neo:vanilla", "attrs": ["bold"] },
+				"background:divider": { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] },
+				"branch:divider":     { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] }
+			}
+		},
+		"ic": {
+			"colors": {
+				"gray0": "neo:strawberry",
+				"gray1": "neo:strawberry",
+				"gray2": "neo:strawberry",
+				"gray3": "neo:milkchocolate",
+				"gray4": "neo:milkchocolate",
+				"gray5": "neo:strawberry",
+				"gray6": "neo:strawberry",
+				"gray7": "neo:strawberry",
+				"gray8": "neo:mint",
+				"gray9": "neo:mint",
+				"gray10": "neo:mint",
+				"neo:milkchocolate": "gray5",
+				"neo:milkchocolate": "light_green_gray"
+			},
+			"groups": {
+				"mode":               { "fg": "neo:strawberry", "bg": "neo:vanilla", "attrs": ["bold"] },
+				"background:divider": { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] },
+				"branch:divider":     { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] }
+			}
+		},
+		"ix": {
+			"colors": {
+				"gray0": "neo:strawberry",
+				"gray1": "neo:strawberry",
+				"gray2": "neo:strawberry",
+				"gray3": "neo:milkchocolate",
+				"gray4": "neo:milkchocolate",
+				"gray5": "neo:strawberry",
+				"gray6": "neo:strawberry",
+				"gray7": "neo:strawberry",
+				"gray8": "neo:mint",
+				"gray9": "neo:mint",
+				"gray10": "neo:mint",
+				"green_yellow_red": "gray5",
+				"dark_green_gray": "light_green_gray"
+			},
+			"groups": {
+				"mode":               { "fg": "neo:strawberry", "bg": "neo:vanilla", "attrs": ["bold"] },
+				"background:divider": { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] },
+				"branch:divider":     { "fg": "neo:chocolate", "bg": "neo:strawberry", "attrs": [] }
+			}
+		},
+		"v": {
+			"groups": {
+				"mode": { "fg": "neo:chocolate", "bg": "neo:wafflecone", "attrs": ["bold"] }
+			}
+		},
+		"V": {
+			"groups": {
+				"mode": { "fg": "neo:chocolate", "bg": "neo:wafflecone", "attrs": ["bold"] }
+			}
+		},
+		"^V": {
+			"groups": {
+				"mode": { "fg": "neo:chocolate", "bg": "neo:wafflecone", "attrs": ["bold"] }
+			}
+		},
+		"R": {
+			"groups": {
+				"mode": { "fg": "neo:vanilla", "bg": "neo:cherry", "attrs": ["bold"] }
+			}
+		},
+		"Rc": {
+			"groups": {
+				"mode": { "fg": "neo:vanilla", "bg": "neo:cherry", "attrs": ["bold"] }
+			}
+		},
+		"Rx": {
+			"groups": {
+				"mode": { "fg": "neo:vanilla", "bg": "neo:cherry", "attrs": ["bold"] }
+			}
+		}
+	}
+}

@@ -1,0 +1,1 @@
+/home/neo/.vim/colors/neo_vanilla.vim

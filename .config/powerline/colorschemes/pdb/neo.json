@@ -1,0 +1,5 @@
+{
+	"groups": {
+		"stack_depth": { "fg": "neo:milkchocolate", "bg": "neo:vanilla", "attrs": ["bold"] }
+	}
+}

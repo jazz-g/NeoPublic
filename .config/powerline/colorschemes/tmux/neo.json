@@ -1,0 +1,14 @@
+{
+	"groups": {
+		"active_window_status": {"fg": "neo:mint",   "bg": "neo:chocolate",    "attrs": []},
+		"window_status":        {"fg": "neo:vanilla",     "bg": "neo:chocolate",    "attrs": []},
+		"activity_status":      {"fg": "neo:caramel",     "bg": "neo:chocolate",    "attrs": []},
+		"bell_status":          {"fg": "neo:cherry",        "bg": "neo:chocolate",    "attrs": []},
+		"window":               {"fg": "neo:wafflecone",      "bg": "neo:chocolate",    "attrs": []},
+		"window:divider":       {"fg": "neo:coffee",      "bg": "neo:chocolate",    "attrs": []},
+		"window:current":       {"fg": "neo:chocolate", "bg": "neo:mint", "attrs": []},
+		"window_name":          {"fg": "neo:vanilla",      "bg": "neo:mint", "attrs": ["bold"]},
+		"session":              {"fg": "neo:chocolate",      "bg": "neo:vanilla",   "attrs": ["bold"]},
+		"session:prefix":       {"fg": "neo:chocolate",     "bg": "neo:mint", "attrs": ["bold"]}
+	}
+}

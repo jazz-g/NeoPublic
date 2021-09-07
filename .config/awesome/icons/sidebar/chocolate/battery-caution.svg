@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg7579"
+   sodipodi:docname="battery-caution.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7581"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="34.5625"
+     inkscape:cx="7.2766727"
+     inkscape:cy="8.0144665"
+     inkscape:window-width="1306"
+     inkscape:window-height="701"
+     inkscape:window-x="30"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg7579" />
+  <defs
+     id="defs7573">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <path
+     style="opacity:0.3;fill:#c46a6b;fill-opacity:1"
+     class="ColorScheme-Highlight"
+     d="M 6,1 V 2 H 3 V 14 C 3,14.554 3.446,15 4,15 H 12 C 12.554,15 13,14.554 13,14 V 2 H 10 V 1 Z"
+     id="path7575" />
+  <path
+     style="fill:#c46a6b;fill-opacity:1"
+     class="ColorScheme-Highlight"
+     d="M 3,12 V 14 C 3,14.554 3.446,15 4,15 H 12 C 12.554,15 13,14.554 13,14 V 12 Z"
+     id="path7577" />
+</svg>

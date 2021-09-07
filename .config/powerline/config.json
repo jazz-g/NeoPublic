@@ -1,0 +1,53 @@
+{
+	"common": {
+		"term_truecolor": true
+	},
+	"ext": {
+		"ipython": {
+			"colorscheme": "neo",
+			"theme": "in",
+			"local_themes": {
+				"rewrite": "rewrite",
+				"out": "out",
+				"in2": "in2"
+			}
+		},
+		"pdb": {
+			"colorscheme": "neo",
+			"theme": "default"
+		},
+		"shell": {
+			"colorscheme": "neo",
+			"theme": "default",
+			"local_themes": {
+				"continuation": "continuation",
+				"select": "select"
+			}
+		},
+		"tmux": {
+			"colorscheme": "neo",
+			"theme": "default"
+		},
+		"vim": {
+			"colorscheme": "neo",
+			"theme": "default",
+			"local_themes": {
+				"__tabline__": "tabline",
+
+				"cmdwin": "cmdwin",
+				"help": "help",
+				"quickfix": "quickfix",
+
+				"powerline.matchers.vim.plugin.nerdtree.nerdtree": "plugin_nerdtree",
+				"powerline.matchers.vim.plugin.commandt.commandt": "plugin_commandt",
+				"powerline.matchers.vim.plugin.gundo.gundo": "plugin_gundo",
+				"powerline.matchers.vim.plugin.gundo.gundo_preview": "plugin_gundo-preview"
+			}
+		},
+		"wm": {
+			"colorscheme": "neo",
+			"theme": "default",
+			"update_interval": 2
+		}
+	}
+}

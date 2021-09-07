@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="4cm"
+   height="4cm"
+   viewBox="0 0 40 39.999999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="magnifier.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="cm"
+     inkscape:zoom="3.4520064"
+     inkscape:cx="97.91407"
+     inkscape:cy="97.479541"
+     inkscape:window-width="1860"
+     inkscape:window-height="1013"
+     inkscape:window-x="30"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4363"
+     showguides="true" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect4871"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect1047"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect717"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <inkscape:path-effect
+       effect="powerclip"
+       id="path-effect255"
+       is_visible="true"
+       lpeversion="1"
+       inverse="true"
+       flatten="false"
+       hide_clip="false"
+       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath251">
+      <rect
+         style="display:block;fill:#808080;stroke-width:4.62256;stroke-linejoin:round"
+         id="rect253"
+         width="26.96677"
+         height="15.095631"
+         x="10.183816"
+         y="14.953366"
+         ry="2.3576164"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath713">
+      <rect
+         style="display:block;fill:#808080;stroke-width:4.62264;stroke-linejoin:round"
+         id="rect715"
+         width="26.967001"
+         height="15.096"
+         x="10.417"
+         y="19.441999"
+         ry="2.3576739" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1043">
+      <rect
+         style="display:block;fill:#808080;stroke-width:2.286;stroke-linejoin:round"
+         id="rect1045"
+         width="23.685072"
+         height="14.016179"
+         x="7.2199998"
+         y="16.226"
+         ry="2.3576729" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4867">
+      <rect
+         style="display:block;fill:#808080;stroke-width:2.13291;stroke-linejoin:round"
+         id="rect4869"
+         width="17"
+         height="17"
+         x="11.5"
+         y="-28.5"
+         ry="1.312" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4363"
+       transform="rotate(-90,20,20)">
+      <path
+         id="rect909-3-2-1-9-6"
+         style="fill:#808080;stroke-width:18.0196;stroke-linejoin:round"
+         d="M 8.7382812 3.7792969 C 5.9911391 3.7792969 3.7792969 5.9911391 3.7792969 8.7382812 L 3.7792969 66.142578 L 32.503906 66.142578 L 32.503906 40.041016 C 32.503906 35.86536 35.86536 32.503906 40.041016 32.503906 L 66.142578 32.503906 L 66.142578 3.7792969 L 8.7382812 3.7792969 z M 85.039062 3.7792969 L 85.039062 32.503906 L 111.14062 32.503906 C 115.31628 32.503906 118.67773 35.86536 118.67773 40.041016 L 118.67773 66.142578 L 147.40234 66.142578 L 147.40234 8.7382812 C 147.40234 5.9911391 145.1905 3.7792969 142.44336 3.7792969 L 85.039062 3.7792969 z M 3.7792969 85.039062 L 3.7792969 142.44336 C 3.7792969 145.1905 5.9911391 147.40234 8.7382812 147.40234 L 66.142578 147.40234 L 66.142578 118.67773 L 40.041016 118.67773 C 35.86536 118.67773 32.503906 115.31628 32.503906 111.14062 L 32.503906 85.039062 L 3.7792969 85.039062 z M 118.67773 85.039062 L 118.67773 111.14062 C 118.67773 115.31628 115.31628 118.67773 111.14062 118.67773 L 85.039062 118.67773 L 85.039062 147.40234 L 142.44336 147.40234 C 145.1905 147.40234 147.40234 145.1905 147.40234 142.44336 L 147.40234 85.039062 L 118.67773 85.039062 z "
+         transform="matrix(0,0.26458333,-0.26458333,0,40,0)" />
+      <path
+         style="fill:#808080;stroke-width:4.76768;stroke-linejoin:round"
+         id="rect909-3-2-1-9-6-7"
+         width="20"
+         height="20"
+         x="10"
+         y="-30"
+         ry="2.4489999"
+         transform="rotate(90)"
+         sodipodi:type="rect"
+         d="m 12.449,-30 h 15.102 c 1.356746,0 2.449,1.092254 2.449,2.449 v 15.102 C 30,-11.092254 28.907746,-10 27.551,-10 H 12.449 C 11.092254,-10 10,-11.092254 10,-12.449 V -27.551 C 10,-28.907746 11.092254,-30 12.449,-30 Z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="12"
+   version="1.1"
+   id="svg3584"
+   sodipodi:docname="network-wireless-signal-good.svg"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   inkscape:export-filename="/home/neo/.config/awesome/icons/sidebar/chocolate/network-wireless-signal-good.png"
+   inkscape:export-xdpi="3000"
+   inkscape:export-ydpi="3000"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3586"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="34.5625"
+     inkscape:cx="6.6980108"
+     inkscape:cy="4.8028933"
+     inkscape:window-width="1860"
+     inkscape:window-height="1013"
+     inkscape:window-x="30"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3584" />
+  <defs
+     id="defs3578">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
+  </style>
+  </defs>
+  <path
+     style="opacity:1;fill:#d9cece;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 0,3 C 2.0806,1.0732 4.9494,0 8,0 c 3.051,0 5.919,1.0731 8,3 l -8,9 z"
+     id="path3580" />
+  <path
+     style="fill:#e5dace;fill-opacity:1"
+     class="ColorScheme-Text"
+     d="M 2,5.25 C 3.5605,3.8049 5.712,3 8,3 c 2.288,0 4.439,0.8048 6,2.25 L 8,12 Z"
+     id="path3582" />
+</svg>
